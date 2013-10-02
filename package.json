@@ -1,0 +1,18 @@
+{
+  "name": "memegen",
+  "version": "0.0.1",
+  "description": "meme generator written using node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@bilnguyen",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~3.4.0",
+    "gm": "~1.13.1",
+    "mongodb": "~1.3.19",
+    "async": "~0.2.9",
+    "handlebars": "~1.0.12"
+  }
+}
